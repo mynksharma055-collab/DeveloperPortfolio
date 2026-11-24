@@ -1,0 +1,23 @@
+================================
+SYSTEM INFORMATION REPORT
+================================
+Name: Mayank Sharma
+Roll Number: 2601730007
+Date: Tue Nov 24 10:40:52 UTC 2026
+
+CPU Information:
+CPU(s):                                  12
+Model name:                              12th Gen Intel(R) Core(TM) i5-12450HX
+
+Memory Information:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       514Mi       6.8Gi       4.1Mi       492Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Top 3 Processes by CPU Usage:
+    PID COMMAND         %CPU
+      1 systemd          0.0
+     87 systemd-udevd    0.0
+    157 networkd-dispat  0.0
+
+Report generated successfully.
